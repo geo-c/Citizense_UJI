@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Citizen participation</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="title_activity_show_exp_point" translatable="false">ShowExpPoint</string>
+    <string name="title_activity_front_page" translatable="false">FrontPage</string>
+    <string name="title_activity_actual_campaign" translatable="false">ActualCampaign</string>
+    <string name="title_activity_questionnaire__done" translatable="false">Questionnaire_Done</string>
+    <string name="title_activity_list_of_campaign" translatable="false">ListOfCampaign</string>
+    <string name="title_activity_list_favorite_campaign" translatable="false">ListFavoriteCampaign</string>
+    <string name="typeUserID">Please type a new user ID * </string>
+    <string name="typeEmail">Please type your email (so we can deliver your gift)</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="typeYearOfBirth">Please type your Year Of Birth</string>
+    <string name="button_register">Register</string>
+    <string name="button_goToCampaign">Answer the campaigns</string>
+    <string name="button_checkPoint">Check my account</string>
+    <string name="noInternet">Please check your Internet connection</string>
+    <string name="yourUserID">Your user ID is</string>
+    <string name="yourExpPoint">Your expPoint is</string>
+    <string name="yourNextRank">To reach the next level, you need to have the following expPoint</string>
+    <string name="yourMoney">You have earned the following amount of money (in cents)</string>
+    <string name="yourPrize">You won prize(s) in the following campaign:</string>
+    <string name="button_homepage">Home page</string>
+    <string name="locationNotAvailable">This campaign is not available in your current location</string>
+    <string name="button_Next">Next</string>
+    <string name="button_Back">Previous question</string>
+    <string name="button_FinishLastQuestion">Finish last question</string>
+    <string name="messageUserExisted">This userID already existed, please choose another one</string>
+    <string name="messageNoEmptyUserID">Please don\'t leave the user ID blank</string>
+    <string name="button_AddFavorite">Add to my favorite list</string>
+    <string name="button_SubmitResult">Submit results</string>
+    <string name="button_notAgree">I don\'t agree</string>
+    <string name="title_activity_dont_agree" translatable="false">DontAgree</string>
+    <string name="title_activity_list_of_question" translatable="false">ListOfQuestion</string>
+    <string name="messageBack">Back</string>
+    <string name="title_activity_detail_result" translatable="false">DetailResult</string>
+    <string name="title_activity_campaign_description" translatable="false">CampaignDescription</string>
+    <string name="title_activity_list_public_campaign" translatable="false">ListPublicCampaign</string>
+    <string name="getCampaign" translatable="false">http://150.128.97.32:8880/getCampaign</string>
+    <string name="server_PostID" translatable="false">http://150.128.97.32:8880/postid</string>
+    <string name="server_CheckAccount" translatable="false">http://150.128.97.32:8880/getExpPoint</string>
+    <string name="server_ViewResult" translatable="false">http://www.citizense.uji.es:8880/getPublicResult</string>
+    <string name="title_activity_about_experiment" translatable="false">AboutExperiment</string>
+    <string name="button_ViewResult">View results of public campaign</string>
+    <string name="message_CreateCampaign">Create your own campaigns at www.citizense.uji.es/</string>
+    <string name="internetOn">Internet connection is On</string>
+    <string name="internetOff">Internet connection is Off</string>
+    <string name="message_clickImageView">Click the above blue area to select an exisiting photo in your gallery</string>
+    <string name="button_TakePhoto">Take a new photo using camera</string>
+    <string name="button_StartMeasuringNoise">Start measuring noise</string>
+    <string name="button_Stop">Stop</string>
+    <string name="info_NoiseValue">Current noise value is</string>
+    <string name="toaat_UploadPhotoSuccessfully">Photo uploaded successfully</string>
+    <string name="info_ResultAvailable">For better visualization it\'s recommended to view the result of this campaign using a PC or laptop. The result is available at:</string>
+    <string name="button_ViewOtherResult">View other results from this campaign</string>
+    <string name="info_UJI">This campaign is from Universitat Jaume I (UJI)</string>
+    <string name="info_Castellon">This campaign is from the city of Castellón</string>
+    <string name="info_Type2">You will receive the money right after completing this campaign. The amount of money (in Euro cent) is:</string>
+    <string name="info_Type3">You will receive the money right after the deadline of the campaign. The deadline of the campaign is:</string>
+    <string name="info_Type1">You have a chance to win a gift in this campaign. The list of gifts is the following:</string>
+    <string name="info_CampaignCreated">This campaign was created by:</string>
+    <string name="message_ThankYou">Thank you very much for your participation</string>
+    <string name="info_CampaignTime">This campaign is available in the following time period:</string>
+    <string name="info_CampaignPermanent">This campaign is available permanently</string>
+    <string name="info_CampaignOneTime">You can answer this campaign only one time</string>
+    <string name="info_CampaignMultipleTime">You can answer this campaign multiple times</string>
+    <string name="info_CampaignPublic">The results of this campaign (including your answers) will be available to the public</string>
+    <string name="info_CampaignPrivate">The results of this campaign (including your answers) will NOT be available to the public</string>
+    <string name="toast_ImageSize">For performance reasons, please take photos at the medium level of resolution , preferably 6M (6 Megapixel)</string>
+    <string name="message_Register">Please do this 15-second registration once so that you can later explore the Citizense platform with its interesting campaigns and surprising rewards</string>
+    <string name="button_About">About the experiment</string>
+    <string name="about_1">Thank you very much for installing this app. This experiment on the participation of citizen will finish on 14 June 2017. You are invited to complete the campaigns. In return, you have chances to get some rewards from us, the organizer of this experiment. </string>
+    <string name="about_2">A campaign can be created by the city hall of Castellón, UJI, the organizer of this experiment, you or your friends. Some campaigns will have a certain type of incentive, which is explained when you click on the campaign itself.</string>
+    <string name="about_3">Due to our small budget, there is an upper bound for the money that you can receive for certain campaigns. However, we do appreciate your contribution very much.</string>
+    <string name="about_4">Please check your account regularly to see your earned rewards (by clicking the button "Check my account"). After the end of the experiment, you can collect your rewards (cash and/or gifts) at Espaitec 2 building (UJI campus), ground floor, from 10.00am to 2.00pm everyday from 15 to 19 June 2017</string>
+    <string name="about_5">If you have any doubts, questions or suggestions, please fell free to contact us at citizense.info@gmail.com</string>
+    <string name="about_6">Once again, thank you very much for your time and effort !!</string>
+    <string name="submissionOK">Your results have been recorded</string>
+    <string name="sumbissionNotOK">Your results were not recorded as you submit too quickly</string>
+    <string name="info_CampaignCreatedByAnonymous">This campaign was created by: anonymous author</string>
+    <string name="info_CampaignDeadline">Gifts will be delivered after the deadline of the campaign: </string>
+    <string name="button_Favorite">My favorite campaigns</string>
+</resources>

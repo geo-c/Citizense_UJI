@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "624639634607",
+    "firebase_url": "https://deployed-citizense-app.firebaseio.com",
+    "project_id": "deployed-citizense-app",
+    "storage_bucket": "deployed-citizense-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624639634607:android:238260570007f16b",
+        "android_client_info": {
+          "package_name": "geoc.esr06.gaiatascastellon2017"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624639634607-ai1p3k4mtegslkeo6c0rge13rpjsqjqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQkkxqtL9ZkmAqYJywCzDd4jLvJfSSfVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
